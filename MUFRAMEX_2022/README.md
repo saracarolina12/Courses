@@ -20,6 +20,7 @@ _CIMAT, Guanajuato, Gto. 2022_
 - ### [Critical Perspectives](https://github.com/saracarolina12/Courses/tree/master/MUFRAMEX_2022/Conferences/CriticalPerspectives.md)
 - ### [Pedestrian Trajectory Prediction](https://github.com/saracarolina12/Courses/tree/master/MUFRAMEX_2022/Conferences/PedestrianTrajectoryPredection.md)
 
+- ### [Portraits Creation](https://github.com/saracarolina12/Courses/tree/master/MUFRAMEX_2022/Conferences/PortraitsCreation.md)
+
 ## Team Work Challenge
 - ### [Motion Prediction](https://github.com/saracarolina12/Courses/tree/master/MUFRAMEX_2022/TeamWorkChallenge)
-- ### [Portraits Creation](https://github.com/saracarolina12/Courses/tree/master/MUFRAMEX_2022/Conferences/PortraitsCreation.md)
