@@ -30,5 +30,5 @@ We can solve this with reparametrization trick.
 
 ## **Pix2pix**
 <p align="center">
-        <img width="40%" src="https://raw.githubusercontent.com/saracarolina12/IA_School/master/MUFRAMEX/AI/imgs/pix2pix.jpg"> </img>
+        <img width="40%" src="https://raw.githubusercontent.com/saracarolina12/Courses/master/MUFRAMEX_2022/imgs/pix2pix.jpg"> </img>
 </p>
