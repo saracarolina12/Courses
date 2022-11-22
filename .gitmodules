@@ -1,0 +1,3 @@
+[submodule "MUFRAMEX_2022/MUFRAMEX_2022/TeamWorkChallenge/human-motion-prediction-pytorch"]
+	path = MUFRAMEX_2022/MUFRAMEX_2022/TeamWorkChallenge/human-motion-prediction-pytorch
+	url = https://github.com/cimat-ris/human-motion-prediction-pytorch
